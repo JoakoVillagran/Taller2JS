@@ -1,0 +1,7 @@
+[
+    {"name": "MAGICIAN", "type": "MAGIC"},
+    {"name": "KNIGHT", "type": "PHYSICAL"},
+    {"name": "WARRIOR", "type": "PHYSICAL"},
+    {"name": "FAIRY", "type": "MAGIC"}
+
+]
