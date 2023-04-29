@@ -4,8 +4,8 @@ const listaAtaquesMagicos = listaAtaques.filter(item => item.type === "MAGIC");
 const listaAtaquesFisicos = listaAtaques.filter(item => item.type === "PHYSICAL");
 let outputString = "";
 
-function concatenacion(message) {
-    outputString += message + "\n";
+function concatenacion(texto) {
+    outputString += texto + "\n";
 }
 
 //creacion personaje
@@ -44,7 +44,7 @@ function asignarAtaqueJugador(personaje) {
 
 
 const jugador1 = {
-    name: "Miss Fortune",
+    name: "Juguito",
     class: listaClases[Math.floor(Math.random() * 4)],
     health: setVida(),
     speed: setVelocidad(),
@@ -53,7 +53,7 @@ const jugador1 = {
 };
 
 const jugador2 = {
-    name: "Ahri",
+    name: "Papo",
     class: listaClases[Math.floor(Math.random() * 4)],
     health: setVida(),
     speed: setVelocidad(),
@@ -180,10 +180,10 @@ function mensajeResumen(Personaje_1, Personaje_2) {
 
 concatenacion(`### INICIO ### \n${jugador1.name} | ${jugador1.class.name} | ${jugador1.health} de vida vs ${jugador2.name} | ${jugador2.class.name} | ${jugador2.health} de vida`)
 pelea(jugador1, jugador2)
-mensajeResumen(jugador1, jugador2);
+concatenacion(mensajeResumen(jugador1, jugador2));
 
 
-let fightLogs = outputString + mensajeResumen(jugador1, jugador2);
+let fightLogs = outputString;
 
 function generateFileLog(logs, filename) {
     const fs = require("fs");

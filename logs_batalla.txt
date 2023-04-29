@@ -1,52 +1,35 @@
 ### INICIO ### 
-Miss Fortune | MAGICIAN | 190 de vida vs Ahri | FAIRY | 198 de vida
+Juguito | KNIGHT | 125 de vida vs Papo | KNIGHT | 193 de vida
 
 ### BATALLA ### 
  
 Ronda 1
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 170
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 180
+Juguito ataca con Kick Combo....Falla!  La vida de Papo se mantiene en 193 
+Papo ataca con Fist Uppercut haciendo 12 DMG....Da en el blanco!   La vida de Juguito queda en 113
 Ronda 2
-Ahri ataca con Shadow Bolt.....Falla! La vida de Miss Fortune se mantiene en 170 
-Miss Fortune ataca con Shadow Bolt.....Falla! La vida de Ahri se mantiene en 180 
+Juguito ataca con Kick Sweep.....Falla! La vida de Papo se mantiene en 193 
+Papo ataca con Kick Combo haciendo 28 DMG...Da en el blanco!   La vida de Juguito queda en 85
 Ronda 3
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 150
-Miss Fortune ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Ahri queda en 160
+Juguito ataca con Kick Combo haciendo 28 DMG....Da en el blanco!   La vida de Papo queda en 165
+Papo ataca con Fist Uppercut haciendo 12 DMG....Da en el blanco!   La vida de Juguito queda en 73
 Ronda 4
-Ahri ataca con Frost Nova....Falla!  La vida de Miss Fortune se mantiene en 150 
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 142
+Juguito ataca con Kick Combo haciendo 28 DMG....Da en el blanco!   La vida de Papo queda en 137
+Papo ataca con Kick Combo haciendo 28 DMG...Da en el blanco!   La vida de Juguito queda en 45
 Ronda 5
-Ahri ataca con Frost Nova....Falla!  La vida de Miss Fortune se mantiene en 150 
-Miss Fortune ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Ahri queda en 122
+Juguito ataca con Kick Combo....Falla!  La vida de Papo se mantiene en 137 
+Papo ataca con Fist Uppercut haciendo 12 DMG....Da en el blanco!   La vida de Juguito queda en 33
 Ronda 6
-Ahri ataca con Shadow Bolt.....Falla! La vida de Miss Fortune se mantiene en 150 
-Miss Fortune ataca con Flame Burst....Falla!  La vida de Ahri se mantiene en 122 
+Juguito ataca con Kick Combo haciendo 28 DMG....Da en el blanco!   La vida de Papo queda en 109
+Papo ataca con Kick Combo haciendo 28 DMG...Da en el blanco!   La vida de Juguito queda en 5
 Ronda 7
-Ahri ataca con Frost Nova....Falla!  La vida de Miss Fortune se mantiene en 150 
-Miss Fortune ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Ahri queda en 102
+Juguito ataca con Kick Sweep.....Falla! La vida de Papo se mantiene en 109 
+Papo ataca con Fist Uppercut haciendo 12 DMG....Da en el blanco!   La vida de Juguito queda en -7
 Ronda 8
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 130
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 84
-Ronda 9
-Ahri ataca con Frost Nova haciendo 10 DMG....Da en el blanco!   La vida de Miss Fortune queda en 120
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 66
-Ronda 10
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 100
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 48
-Ronda 11
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 80
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 30
-Ronda 12
-Ahri ataca con Shadow Bolt haciendo 20 DMG...Da en el blanco!   La vida de Miss Fortune queda en 60
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en 12
-Ronda 13
-Ahri ataca con Shadow Bolt.....Falla! La vida de Miss Fortune se mantiene en 60 
-Miss Fortune ataca con Flame Burst haciendo 18 DMG....Da en el blanco!   La vida de Ahri queda en -6
-Ronda 14
-Ahri no puede continuar
+Juguito no puede continuar
 
 ### RESUMEN ###
  
-Miss Fortune gana la batalla 
-Miss Fortune fallo 2 veces su ataque 
-Ahri fallo 6 veces su ataque 
+
+Papo gana la batalla 
+Juguito fallo 4 veces su ataque 
+Papo fallo 0 veces su ataque  
